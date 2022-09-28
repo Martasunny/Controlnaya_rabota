@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\контрольная работа\zadacha\bin\Debug\net6.0\zadacha.exe
+D:\Users\User\Desktop\контрольная работа\zadacha\bin\Debug\net6.0\zadacha.deps.json
+D:\Users\User\Desktop\контрольная работа\zadacha\bin\Debug\net6.0\zadacha.runtimeconfig.json
+D:\Users\User\Desktop\контрольная работа\zadacha\bin\Debug\net6.0\zadacha.dll
+D:\Users\User\Desktop\контрольная работа\zadacha\bin\Debug\net6.0\zadacha.pdb
+D:\Users\User\Desktop\контрольная работа\zadacha\obj\Debug\net6.0\zadacha.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\контрольная работа\zadacha\obj\Debug\net6.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\контрольная работа\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\контрольная работа\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfo.cs
+D:\Users\User\Desktop\контрольная работа\zadacha\obj\Debug\net6.0\zadacha.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\контрольная работа\zadacha\obj\Debug\net6.0\zadacha.dll
+D:\Users\User\Desktop\контрольная работа\zadacha\obj\Debug\net6.0\refint\zadacha.dll
+D:\Users\User\Desktop\контрольная работа\zadacha\obj\Debug\net6.0\zadacha.pdb
+D:\Users\User\Desktop\контрольная работа\zadacha\obj\Debug\net6.0\zadacha.genruntimeconfig.cache
+D:\Users\User\Desktop\контрольная работа\zadacha\obj\Debug\net6.0\ref\zadacha.dll
